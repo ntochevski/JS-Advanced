@@ -9,12 +9,3 @@ function solve(arr, rotations) {
     console.log(arr.join(' '));
 }
 
-solve(['1',  
-
-'2',  
-
-'3',  
-
-'4'],  
-
-2 );
