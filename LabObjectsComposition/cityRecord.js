@@ -6,7 +6,3 @@ function solve(name, population, treasury) {
     }
     return city;
 }
-solve('Tortuga',
-7000,
-15000
-);
