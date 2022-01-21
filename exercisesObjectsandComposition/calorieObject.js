@@ -5,4 +5,3 @@ function solve(arr) {
     });
     console.log(obj);
 }
-solve(['Potato', '93', 'Skyr', '63', 'Cucumber', '18', 'Milk', '42'] );
